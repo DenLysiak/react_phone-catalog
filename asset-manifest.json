@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.5383c441.css",
-    "main.js": "./static/js/main.7a98f6e4.js",
+    "main.css": "./static/css/main.d51c5a68.css",
+    "main.js": "./static/js/main.47a9a94d.js",
     "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/main_logo.svg": "./static/media/main_logo.e404e8f10b80ab644948.svg",
     "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
@@ -20,11 +20,11 @@
     "static/media/burger_menu.svg": "./static/media/burger_menu.744ac0b04d84e4feeeb5.svg",
     "static/media/chevron_arrow_right.svg": "./static/media/chevron_arrow_right.891b934a02bc10dca3a3.svg",
     "index.html": "./index.html",
-    "main.5383c441.css.map": "./static/css/main.5383c441.css.map",
-    "main.7a98f6e4.js.map": "./static/js/main.7a98f6e4.js.map"
+    "main.d51c5a68.css.map": "./static/css/main.d51c5a68.css.map",
+    "main.47a9a94d.js.map": "./static/js/main.47a9a94d.js.map"
   },
   "entrypoints": [
-    "static/css/main.5383c441.css",
-    "static/js/main.7a98f6e4.js"
+    "static/css/main.d51c5a68.css",
+    "static/js/main.47a9a94d.js"
   ]
 }
