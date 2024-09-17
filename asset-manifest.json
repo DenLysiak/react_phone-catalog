@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.cb6a8c48.css",
-    "main.js": "./static/js/main.3b362b25.js",
+    "main.css": "./static/css/main.2c976c9f.css",
+    "main.js": "./static/js/main.34a4f6e9.js",
     "static/media/categories-tablets-background.svg": "./static/media/categories-tablets-background.b3ad471af34fc54d437c.svg",
     "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/categories-accessories-background.svg": "./static/media/categories-accessories-background.f12072d4c6c7887f2e3a.svg",
     "static/media/categories-phones-background.svg": "./static/media/categories-phones-background.a7548c4e2325481fdbe9.svg",
     "static/media/main_logo.svg": "./static/media/main_logo.e404e8f10b80ab644948.svg",
     "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/ipad_slider_p.jpeg": "./static/media/ipad_slider_p.9199f1ad121cb66498e4.jpeg",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
     "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/accessories_slider_p.jpg": "./static/media/accessories_slider_p.37c91e847fe830268869.jpg",
     "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
     "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
     "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/phones_slider-p.webp": "./static/media/phones_slider-p.f28a213887696289d26b.webp",
     "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "static/media/shoping_cart.svg": "./static/media/shoping_cart.f9632dca8fdaed9bb696.svg",
@@ -23,11 +26,11 @@
     "static/media/burger_menu.svg": "./static/media/burger_menu.744ac0b04d84e4feeeb5.svg",
     "static/media/chevron_arrow_right.svg": "./static/media/chevron_arrow_right.891b934a02bc10dca3a3.svg",
     "index.html": "./index.html",
-    "main.cb6a8c48.css.map": "./static/css/main.cb6a8c48.css.map",
-    "main.3b362b25.js.map": "./static/js/main.3b362b25.js.map"
+    "main.2c976c9f.css.map": "./static/css/main.2c976c9f.css.map",
+    "main.34a4f6e9.js.map": "./static/js/main.34a4f6e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb6a8c48.css",
-    "static/js/main.3b362b25.js"
+    "static/css/main.2c976c9f.css",
+    "static/js/main.34a4f6e9.js"
   ]
 }
