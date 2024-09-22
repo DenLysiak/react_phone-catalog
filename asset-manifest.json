@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.ccea9aea.css",
-    "main.js": "./static/js/main.0cdae68b.js",
+    "main.css": "./static/css/main.341eae3c.css",
+    "main.js": "./static/js/main.8e0e37c1.js",
     "static/media/categories-tablets-background.svg": "./static/media/categories-tablets-background.b3ad471af34fc54d437c.svg",
     "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/categories-accessories-background.svg": "./static/media/categories-accessories-background.f12072d4c6c7887f2e3a.svg",
@@ -26,11 +26,11 @@
     "static/media/burger_menu.svg": "./static/media/burger_menu.744ac0b04d84e4feeeb5.svg",
     "static/media/chevron_arrow_right.svg": "./static/media/chevron_arrow_right.891b934a02bc10dca3a3.svg",
     "index.html": "./index.html",
-    "main.ccea9aea.css.map": "./static/css/main.ccea9aea.css.map",
-    "main.0cdae68b.js.map": "./static/js/main.0cdae68b.js.map"
+    "main.341eae3c.css.map": "./static/css/main.341eae3c.css.map",
+    "main.8e0e37c1.js.map": "./static/js/main.8e0e37c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccea9aea.css",
-    "static/js/main.0cdae68b.js"
+    "static/css/main.341eae3c.css",
+    "static/js/main.8e0e37c1.js"
   ]
 }
