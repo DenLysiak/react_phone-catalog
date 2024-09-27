@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b743ed24.css",
-    "main.js": "./static/js/main.a4330dfd.js",
+    "main.css": "./static/css/main.175cd1f2.css",
+    "main.js": "./static/js/main.f748e2b3.js",
     "static/media/categories-tablets-background.svg": "./static/media/categories-tablets-background.b3ad471af34fc54d437c.svg",
     "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/categories-accessories-background.svg": "./static/media/categories-accessories-background.f12072d4c6c7887f2e3a.svg",
@@ -23,16 +23,17 @@
     "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "static/media/shoping_cart.svg": "./static/media/shoping_cart.f9632dca8fdaed9bb696.svg",
     "static/media/favourites_heart_like.svg": "./static/media/favourites_heart_like.670cf5136eb8aecd15dc.svg",
+    "static/media/favourites_filled_heart_like.svg": "./static/media/favourites_filled_heart_like.77afa4aaa8ea15001132.svg",
     "static/media/close_menu_icon.svg": "./static/media/close_menu_icon.0594ac0ef702db8fbc79.svg",
     "static/media/burger_menu.svg": "./static/media/burger_menu.744ac0b04d84e4feeeb5.svg",
     "static/media/chevron_arrow_right_disabled.svg": "./static/media/chevron_arrow_right_disabled.f60f090e154bfe3c4ca5.svg",
     "static/media/chevron_arrow_right.svg": "./static/media/chevron_arrow_right.891b934a02bc10dca3a3.svg",
     "index.html": "./index.html",
-    "main.b743ed24.css.map": "./static/css/main.b743ed24.css.map",
-    "main.a4330dfd.js.map": "./static/js/main.a4330dfd.js.map"
+    "main.175cd1f2.css.map": "./static/css/main.175cd1f2.css.map",
+    "main.f748e2b3.js.map": "./static/js/main.f748e2b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.b743ed24.css",
-    "static/js/main.a4330dfd.js"
+    "static/css/main.175cd1f2.css",
+    "static/js/main.f748e2b3.js"
   ]
 }
