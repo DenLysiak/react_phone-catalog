@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.ab4d10b0.css",
-    "main.js": "./static/js/main.ac340da0.js",
+    "main.css": "./static/css/main.c3dfcfd7.css",
+    "main.js": "./static/js/main.6c31da8d.js",
     "static/media/categories-tablets-background.svg": "./static/media/categories-tablets-background.b3ad471af34fc54d437c.svg",
     "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/categories-accessories-background.svg": "./static/media/categories-accessories-background.f12072d4c6c7887f2e3a.svg",
@@ -18,22 +18,22 @@
     "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
     "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
     "static/media/phones_slider-p.webp": "./static/media/phones_slider-p.f28a213887696289d26b.webp",
-    "static/media/00.webp": "./static/media/00.56792c063ced94e33ac9.webp",
     "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "static/media/shoping_cart.svg": "./static/media/shoping_cart.f9632dca8fdaed9bb696.svg",
     "static/media/favourites_heart_like.svg": "./static/media/favourites_heart_like.670cf5136eb8aecd15dc.svg",
+    "static/media/home__breadcrumb.svg": "./static/media/home__breadcrumb.d4c29e4f137b3a79235a.svg",
     "static/media/favourites_filled_heart_like.svg": "./static/media/favourites_filled_heart_like.77afa4aaa8ea15001132.svg",
     "static/media/close_menu_icon.svg": "./static/media/close_menu_icon.0594ac0ef702db8fbc79.svg",
     "static/media/burger_menu.svg": "./static/media/burger_menu.744ac0b04d84e4feeeb5.svg",
     "static/media/chevron_arrow_right_disabled.svg": "./static/media/chevron_arrow_right_disabled.f60f090e154bfe3c4ca5.svg",
     "static/media/chevron_arrow_right.svg": "./static/media/chevron_arrow_right.891b934a02bc10dca3a3.svg",
     "index.html": "./index.html",
-    "main.ab4d10b0.css.map": "./static/css/main.ab4d10b0.css.map",
-    "main.ac340da0.js.map": "./static/js/main.ac340da0.js.map"
+    "main.c3dfcfd7.css.map": "./static/css/main.c3dfcfd7.css.map",
+    "main.6c31da8d.js.map": "./static/js/main.6c31da8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab4d10b0.css",
-    "static/js/main.ac340da0.js"
+    "static/css/main.c3dfcfd7.css",
+    "static/js/main.6c31da8d.js"
   ]
 }
